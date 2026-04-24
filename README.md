@@ -5,9 +5,8 @@
 ---
 
 ## Live System Walkthrough (Optional Bonus)
+Loom Link for Demonstration: https://www.loom.com/share/40bdf0fc4fa14061a465824497218b24
 
-**Loom / screen recording link:**  
-**[Link for Demonstration]([url](https://www.loom.com/share/40bdf0fc4fa14061a465824497218b24))**
 
 This recording can show:
 - A live query from a fresh terminal
@@ -15,6 +14,14 @@ This recording can show:
 - The evaluation harness computing Precision@3
 - A refusal case for insufficient context
 - Brief narration of design choices
+
+---
+
+## Architecture
+
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_lcqm9tlcqm9tlcqm" src="https://github.com/user-attachments/assets/1d30d576-f9bd-4b3d-9476-b556b829b4a6" />
+
 
 ---
 
@@ -32,7 +39,7 @@ Hallucinated answers are mitigated using:
 2. a strict grounding prompt,
 3. and post-generation faithfulness scoring.
 
-**Evaluation result:** `Precision@3 = 0.800 (8/10)`
+**Evaluation result:** `Precision@3 = 0.700 (7/10)`
 
 ---
 
