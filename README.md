@@ -7,7 +7,7 @@
 ## Live System Walkthrough (Optional Bonus)
 
 **Loom / screen recording link:**  
-`[uploading soon]`
+`[Link For Demonstration on Loom](https://www.loom.com/share/40bdf0fc4fa14061a465824497218b24)]`
 
 This recording can show:
 - A live query from a fresh terminal
