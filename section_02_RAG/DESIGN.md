@@ -45,7 +45,7 @@ This design prioritizes reliability over creativity.
 
 ## Evaluation Result
 
-### Precision@3 = **0.800 (8/10)**
+### Precision@3 = **0.700 (7/10)**
 
 Tested on:
 
@@ -672,9 +672,9 @@ generation fails.
 
 # Result
 
-## Precision@3 = 0.800
+## Precision@3 = 0.700
 
-### 8 / 10 successful retrievals
+### 7 / 10 successful retrievals
 
 Strong result for assignment scope.
 
