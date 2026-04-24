@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Hi, The dark mode preference is not being saved between sessions. Thank you!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I need to dispute a charge of \u20b94999 from last February.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, How do I change my account username in the settings? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, How does your pricing model work for large enterprise teams? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, How do I permanently delete my account and all associated data? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "Good day, I am seriously considering cancelling due to the consistently poor service. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Your chatbot gave me completely wrong information three times in a row. Thank you!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Where can I find the full documentation for your API?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, SSO support for enterprise accounts would make onboarding easier.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Keyboard shortcuts for common actions would save me a lot of time. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I'm extremely frustrated with the complete lack of communication. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, The price on my bill doesn't match what was advertised. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, Your documentation is confusing, outdated, and full of errors. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, the bulk import feature fails every time at step 3. this is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, There's a tax discrepancy on my invoice from November.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, I've escalated this issue four times now with absolutely no resolution. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "hello, my integrations stopped syncing after yesterday's update.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, a public api for read-only access to my data would be very helpful.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, Where can I find the full documentation for your API? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, My invoice shows an incorrect amount for November. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, SSO support for enterprise accounts would make onboarding easier. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The outage last week cost my team several hours of productive work.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Do you offer a discount for registered non-profit organisations? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "hi, can you explain how the monthly credit system works? appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, The promo discount was not applied to my bill. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Please add a dark mode option to the web application. This is urgent!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "The quality has dropped significantly since your last major update.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, How do I update my notification preferences in the account settings?",
+    "label": "other"
+  },
+  {
+    "text": "I'm being billed for users I removed from my account.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you provide a Zapier integration for automating workflows? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I've been a paying customer for two years and I'm treated like this? This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, The bulk import feature fails every time at step 3. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, I'd like to customise the columns shown in the list view. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hi, what is the maximum file upload size on the pro plan?",
+    "label": "other"
+  },
+  {
+    "text": "I've been a paying customer for two years and I'm treated like this?",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Your customer service is absolutely terrible. I've been waiting 5 days for a reply. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, Can you explain the line item called platform fee on my invoice? Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Where can i find your full privacy policy document? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, i need a refund for the duplicate charge on my account. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "hey there, video playback inside your platform freezes after 30 seconds. appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I've been a paying customer for two years and I'm treated like this? Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, I'm on the free plan but I see a \u20b91299 charge on my bank statement.",
+    "label": "billing"
+  },
+  {
+    "text": "I'm extremely frustrated with the complete lack of communication.",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I find the full documentation for your API? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "hey there, i was overcharged compared to the pricing shown on your website.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Your chatbot gave me completely wrong information three times in a row. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "hello, two-factor authentication codes are not being accepted. appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, I need a refund for the duplicate charge on my account. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Can you add an option to schedule reports to be sent by email? Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hi support team, a public api for read-only access to my data would be very helpful. thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, The constant bugs are making this tool unusable for my business. This is urgent!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Do you offer a discount for registered non-profit organisations?",
+    "label": "other"
+  },
+  {
+    "text": "do you offer a discount for registered non-profit organisations? please help.",
+    "label": "other"
+  },
+  {
+    "text": "Do you have a student or educational institution discount?",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, My annual plan was auto-renewed without any notice. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Role-based access controls would be very useful for our team. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Your last update broke my entire workflow and no one seems to care. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "I'm extremely frustrated with the complete lack of communication. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, The promo discount was not applied to my bill. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I've been promised a fix for months and nothing has changed. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, a public api for read-only access to my data would be very helpful.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, I'd like the ability to set up recurring tasks automatically. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, Why was i billed for a plan i already downgraded from? Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, i updated my credit card but the old one was charged. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "good day, can you add an option to schedule reports to be sent by email? thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, My invoice shows an incorrect amount for February. Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Images I upload are not displaying in the preview panel. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hello, the audit log is missing entries for the past five days.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "the promo discount was not applied to my bill. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, I've submitted three support tickets and nobody has responded. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, Can you add an option to schedule reports to be sent by email? Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, How do i add a team member to my existing account? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, How do I update my notification preferences in the account settings?",
+    "label": "other"
+  },
+  {
+    "text": "I'd like to customise the columns shown in the list view.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, your pricing increase was not communicated to customers at all. appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, My free trial ended early and I was billed before the period finished.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, What payment methods do you currently accept? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, The mobile app crashes every time I open the settings page.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, I keep getting logged out after just a few minutes. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hello, i can't log in even with the correct password. this is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, What is your data retention policy for inactive accounts? This is urgent!!",
+    "label": "other"
+  },
+  {
+    "text": "Good day, Please add a calendar view for managing tasks and deadlines.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, What payment methods do you currently accept? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "sso support for enterprise accounts would make onboarding easier. this is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, How do I update my notification preferences in the account settings? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Video playback inside your platform freezes after 30 seconds.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "i keep getting logged out after just a few minutes. appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, The outage last week cost my team several hours of productive work. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "hello, what are your business hours for customer support? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, The bulk import feature fails every time at step 3. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, The promo discount was not applied to my bill. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Can I transfer my account to a different email address? Please help!!",
+    "label": "other"
+  },
+  {
+    "text": "Hello, The constant bugs are making this tool unusable for my business!!",
+    "label": "complaint"
+  },
+  {
+    "text": "my integrations stopped syncing after yesterday's update. thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, The bulk import feature fails every time at step 3. Thank you!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, i'd like to know more about your enterprise plan pricing. this is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Keyboard shortcuts for common actions would save me a lot of time. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, the search feature returns no results for items i know exist. this is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, your chatbot gave me completely wrong information three times in a row. need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, I get a 500 error every time I try to save my project. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Where can I download the desktop application for Windows?",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, It would be great if i could export data to Excel format. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, My webhook endpoint completely stopped receiving events. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The export to CSV button does nothing when I click it.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, Please add a dark mode option to the web application.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, Can you add colour-coding for different project categories?!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, A public API for read-only access to my data would be very helpful. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I'd like to know more about your enterprise plan pricing.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Why was i billed for a plan i already downgraded from? Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, This is unacceptable behaviour from a company i trusted with my data. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "My invoice shows an incorrect amount for February. Appreciate your help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, My webhook endpoint completely stopped receiving events. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "This is the third time this week I've had the exact same issue.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, i need to dispute a charge of \u20b9799 from last July. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "hi support team, i'd like the ability to set up recurring tasks automatically. please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, My invoice shows an incorrect amount for March. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, I feel like smaller customers are completely ignored by your team. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "What payment methods do you currently accept? This is urgent!!",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Role-based access controls would be very useful for our team. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Your uptime SLA is not being met and I'm losing real revenue. Thank you!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you explain the line item called platform fee on my invoice?",
+    "label": "billing"
+  },
+  {
+    "text": "Video playback inside your platform freezes after 30 seconds. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, I'm on the free plan but I see a \u20b94999 charge on my bank statement. Appreciate your help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, I'm on the free plan but I see a \u20b9799 charge on my bank statement.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, The audit log is missing entries for the past five days. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Notifications are not being delivered to my email address. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Video playback inside your platform freezes after 30 seconds. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, Please add an AI-powered summary for long comment threads. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, The outage last week cost my team several hours of productive work. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "I'm getting CORS errors when calling your API from my app. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, this is unacceptable behaviour from a company i trusted with my data. appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Keyboard shortcuts for common actions would save me a lot of time. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, i'm getting cors errors when calling your api from my app. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My annual plan was auto-renewed without any notice.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Do you have a student or educational institution discount? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, It would be great if I could export data to Excel format. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Do you have a student or educational institution discount? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, I'd like to see a native mobile app for iOS. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, What is the difference between the Basic and Pro plan features? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, Please add a calendar view for managing tasks and deadlines.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, What is your data retention policy for inactive accounts? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, What are your business hours for customer support? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, I'm extremely frustrated with the complete lack of communication. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I cancelled my subscription but was charged again in April. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "I am seriously considering cancelling due to the consistently poor service.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, Two-factor authentication codes are not being accepted. Appreciate your help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Your pricing increase was not communicated to customers at all. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, This is unacceptable behaviour from a company i trusted with my data. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, notifications are not being delivered to my email address. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can you explain how the monthly credit system works? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "The mobile app crashes every time I open the settings page.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, This is the third time this week I've had the exact same issue. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, This is the third time this week I've had the exact same issue. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "i've escalated this issue four times now with absolutely no resolution. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "hey there, please add a slack integration for real-time notifications. need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add an AI-powered summary for long comment threads.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I'd like to see a native mobile app for iOS.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, My uploaded files disappeared after the recent system migration.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Your pricing increase was not communicated to customers at all. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, What is the difference between the Basic and Pro plan features?!!",
+    "label": "other"
+  },
+  {
+    "text": "Hi, Where can i find your full privacy policy document? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Do you offer a discount for registered non-profit organisations? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "My billing cycle date changed without my consent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, My integrations stopped syncing after yesterday's update.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, i updated my credit card but the old one was charged. need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Your documentation is confusing, outdated, and full of errors. This is urgent!!",
+    "label": "complaint"
+  },
+  {
+    "text": "hey there, do you have a student or educational institution discount? this is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Video playback inside your platform freezes after 30 seconds. Thank you!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, My annual plan was auto-renewed without any notice. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "hello, video playback inside your platform freezes after 30 seconds. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "This is unacceptable behaviour from a company I trusted with my data. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "i'd like to customise the columns shown in the list view. this is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hello, i'd like to see a native mobile app for ios. thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Please add a dark mode option to the web application. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please send me a receipt for my last payment. Appreciate your help!!",
+    "label": "billing"
+  },
+  {
+    "text": "good day, i'm getting cors errors when calling your api from my app. appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I've submitted three support tickets and nobody has responded.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, There's a tax discrepancy on my invoice from July. Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, i was charged twice for my subscription this month. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, SSO support for enterprise accounts would make onboarding easier. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "good day, i'm extremely frustrated with the complete lack of communication. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "SSO support for enterprise accounts would make onboarding easier.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I feel like smaller customers are completely ignored by your team. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "I need a refund for the duplicate charge on my account.",
+    "label": "billing"
+  },
+  {
+    "text": "Why was I billed for a plan I already downgraded from?",
+    "label": "billing"
+  },
+  {
+    "text": "I need a refund for the duplicate charge on my account. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, Why was I billed for a plan I already downgraded from? This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, What is your data retention policy for inactive accounts? This is urgent!!",
+    "label": "other"
+  },
+  {
+    "text": "How do i permanently delete my account and all associated data? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Do you have a student or educational institution discount? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "The mobile app crashes every time I open the settings page. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, My integrations stopped syncing after yesterday's update.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I permanently delete my account and all associated data?",
+    "label": "other"
+  },
+  {
+    "text": "Good day, The dashboard won't load \u2014 it just spins forever. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, the price on my bill doesn't match what was advertised. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "hey there, role-based access controls would be very useful for our team. this is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Video playback inside your platform freezes after 30 seconds.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, A public APi for read-only access to my data would be very helpful.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I asked for a refund two weeks ago and I still haven't received anything. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, My annual plan was auto-renewed without any notice. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, I'd like to know more about your enterprise plan pricing!!",
+    "label": "other"
+  },
+  {
+    "text": "the mobile app crashes every time i open the settings page. please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I am seriously considering cancelling due to the consistently poor service. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, The search feature returns no results for items i know exist. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, It would be great if I could export data to Excel format. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, It would be great if I could export data to Excel format. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "hello, please add a slack integration for real-time notifications. need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The dashboard won't load \u2014 it just spins forever. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I can't log in even with the correct password. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, I'd like to customise the columns shown in the list view!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I'm getting CORS errors when calling your APi from my app. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, The search feature returns no results for items I know exist. This is urgent!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "A two-pane view for comparing documents side by side would help. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, I'd like an API endpoint for bulk data import. This is urgent!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, A two-pane view for comparing documents side by side would help. Need this resolved!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "What payment methods do you currently accept?",
+    "label": "other"
+  },
+  {
+    "text": "hey there, i've been a paying customer for two years and i'm treated like this? need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Your chatbot gave me completely wrong information three times in a row. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i need a refund for the duplicate charge on my account. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "hey there, keyboard shortcuts for common actions would save me a lot of time. thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, How do I update my notification preferences in the account settings? Need this resolved!!",
+    "label": "other"
+  },
+  {
+    "text": "hello, please add a slack integration for real-time notifications. this is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "i get a 500 error every time i try to save my project. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, I'd like to see a native mobile app for iOS. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I'd like to customise the columns shown in the list view. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Please add an AI-powered summary for long comment threads. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Please add a calendar view for managing tasks and deadlines. This is urgent!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, What are your business hours for customer support? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "Good day, It would be great if i could export data to Excel format. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My uploaded files disappeared after the recent system migration.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "good day, i'd like the ability to set up recurring tasks automatically. thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I cancelled my subscription but was charged again in January. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, Where can I download the desktop application for Windows? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "hi, the pdf report download always comes out corrupted. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, i cancelled my subscription but was charged again in January. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, I've submitted three support tickets and nobody has responded. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, I'm on the free plan but I see a \u20b9999 charge on my bank statement. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Please send me a receipt for my last payment. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, Can you add an option to schedule reports to be sent by email? Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, I'd like to see a native mobile app for iOS. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I'd like to see a native mobile app for iOS.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, My annual plan was auto-renewed without any notice!!",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, I keep getting logged out after just a few minutes. Appreciate your help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The quality has dropped significantly since your last major update. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, what are your business hours for customer support? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, A two-pane view for comparing documents side by side would help. Need this resolved!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, I can't log in even with the correct password. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "good day, how do i permanently delete my account and all associated data? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Video playback inside your platform freezes after 30 seconds. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your documentation is confusing, outdated, and full of errors!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, This product is not as advertised. I feel completely misled. Appreciate your help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I'd like to know more about your enterprise plan pricing. Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, How do I add a team member to my existing account? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "the price on my bill doesn't match what was advertised. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, What is the maximum file upload size on the Pro plan?!!",
+    "label": "other"
+  },
+  {
+    "text": "Please add a Slack integration for real-time notifications. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you add an option to schedule reports to be sent by email?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, Your last update broke my entire workflow and no one seems to care. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, My annual plan was auto-renewed without any notice. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The audit log is missing entries for the past five days. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I cancelled my subscription but was charged again in May. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "hello, my billing cycle date changed without my consent. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Role-based access controls would be very useful for our team. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I've been a paying customer for two years and I'm treated like this? Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, This product is not as advertised. i feel completely misled. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, This product is not as advertised. i feel completely misled. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, The mobile app crashes every time I open the settings page. Appreciate your help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, How do I update my notification preferences in the account settings? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "hi, i've been a paying customer for two years and i'm treated like this? thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "This is unacceptable behaviour from a company I trusted with my data.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm getting CORS errors when calling your API from my app. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, The export to CSV button does nothing when I click it. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'm extremely frustrated with the complete lack of communication.",
+    "label": "complaint"
+  },
+  {
+    "text": "hello, how do i add a team member to my existing account? this is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "hello, i'm being billed for users i removed from my account. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please add a calendar view for managing tasks and deadlines. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, What is the maximum file upload size on the Pro plan? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "how does your pricing model work for large enterprise teams?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you add support for multiple languages in the interface? Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add a calendar view for managing tasks and deadlines.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Can you add an option to schedule reports to be sent by email? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, can i request a product demo before committing to a paid plan? thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, What is the difference between the Basic and Pro plan features? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Your documentation is confusing, outdated, and full of errors. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, Please add a calendar view for managing tasks and deadlines.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, what is the difference between the basic and pro plan features? thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I was overcharged compared to the pricing shown on your website.",
+    "label": "billing"
+  },
+  {
+    "text": "hello, can you explain how the monthly credit system works? please help.",
+    "label": "other"
+  },
+  {
+    "text": "The dark mode preference is not being saved between sessions. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Where can I download the desktop application for Windows? This is urgent!!",
+    "label": "other"
+  },
+  {
+    "text": "My free trial ended early and I was billed before the period finished.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Can you add support for multiple languages in the interface?",
+    "label": "feature_request"
+  },
+  {
+    "text": "what is the maximum file upload size on the pro plan? this is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, I was overcharged compared to the pricing shown on your website. Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, My invoice shows an incorrect amount for September. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "My free trial ended early and I was billed before the period finished. Please help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, I'm being billed for users I removed from my account.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Please add a calendar view for managing tasks and deadlines. Thank you!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Keyboard shortcuts for common actions would save me a lot of time. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "What is the difference between the Basic and Pro plan features?",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Please send me a receipt for my last payment. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "hi support team, would love the ability to bulk delete records at once. please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "notifications are not being delivered to my email address. thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add a Slack integration for real-time notifications. Thank you!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Can I request a product demo before committing to a paid plan? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, A public API for read-only access to my data would be very helpful. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, The mobile app crashes every time I open the settings page. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, the outage last week cost my team several hours of productive work. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, i need a refund for the duplicate charge on my account. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "hi support team, can you add an option to schedule reports to be sent by email? thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hello, i need to dispute a charge of \u20b9299 from last october. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "What are your business hours for customer support?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, Images i upload are not displaying in the preview panel. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Can you explain the line item called platform fee on my invoice? Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Would love the ability to bulk delete records at once. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, The bulk import feature fails every time at step 3. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I add a team member to my existing account?",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, How does your pricing model work for large enterprise teams? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, I'm being billed for users I removed from my account. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "There's a tax discrepancy on my invoice from November. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Why was I billed for a plan I already downgraded from?!!",
+    "label": "billing"
+  },
+  {
+    "text": "hello, my payment failed but you still charged my card. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, The dashboard won't load \u2014 it just spins forever!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Would love the ability to bulk delete records at once. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "a two-pane view for comparing documents side by side would help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Your uptime SLA is not being met and I'm losing real revenue. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, Your pricing increase was not communicated to customers at all. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, i've escalated this issue four times now with absolutely no resolution. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, What is your data retention policy for inactive accounts? Please help!!",
+    "label": "other"
+  },
+  {
+    "text": "Can you explain the line item called platform fee on my invoice? Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Your last update broke my entire workflow and no one seems to care. This is urgent!!",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, i need a refund for the duplicate charge on my account. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, I feel like smaller customers are completely ignored by your team. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, The APi is returning a 401 even with a valid token. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, My billing cycle date changed without my consent. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, The export to CSV button does nothing when I click it.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Notifications are not being delivered to my email address.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, i updated my credit card but the old one was charged. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "i cancelled my subscription but was charged again in july. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "hi support team, my free trial ended early and i was billed before the period finished. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Can I transfer my account to a different email address? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "hey there, please add a dark mode option to the web application.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, Images I upload are not displaying in the preview panel. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, I'd like to see a native mobile app for iOS. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I have an unexpected charge of \u20b9299 on my statement.",
+    "label": "billing"
+  },
+  {
+    "text": "The dark mode preference is not being saved between sessions.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My billing cycle date changed without my consent. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "What is the maximum file upload size on the Pro plan?",
+    "label": "other"
+  },
+  {
+    "text": "good day, your chatbot gave me completely wrong information three times in a row. thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, The outage last week cost my team several hours of productive work. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, My webhook endpoint completely stopped receiving events. Thank you!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The API is returning a 401 even with a valid token. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The API is returning a 401 even with a valid token. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, Can you add support for multiple languages in the interface? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Please send me a receipt for my last payment. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "I can't log in even with the correct password. Need this resolved!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Can I use your service if my company is based in a restricted region? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, The API is returning a 401 even with a valid token. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I'd like to customise the columns shown in the list view. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, What is the difference between the Basic and Pro plan features?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, The export to CSV button does nothing when I click it. Need this resolved!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, video playback inside your platform freezes after 30 seconds.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, i need to dispute a charge of \u20b9199 from last january. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "hello, i've been a paying customer for two years and i'm treated like this? thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "hello, i was overcharged compared to the pricing shown on your website. appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "hey there, what are your business hours for customer support? thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, I'd like the ability to set up recurring tasks automatically. Need this resolved!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, The search feature returns no results for items I know exist. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Can I use your service if my company is based in a restricted region? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, My annual plan was auto-renewed without any notice. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, My uploaded files disappeared after the recent system migration. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The PDF report download always comes out corrupted. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, i am seriously considering cancelling due to the consistently poor service. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, An undo button after deleting items is badly needed. Thank you!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, I cancelled my subscription but was charged again in March. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I asked for a refund two weeks ago and I still haven't received anything.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, Please add a dark mode option to the web application. Please help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "I'd like the ability to set up recurring tasks automatically. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "the quality has dropped significantly since your last major update. need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, This product is not as advertised. I feel completely misled. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, The PDF report download always comes out corrupted. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Can you explain the line item called platform fee on my invoice? Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, How do I update my notification preferences in the account settings? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "This product is not as advertised. I feel completely misled. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, I'd like to see a native mobile app for iOS. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "can you add support for multiple languages in the interface? thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, My uploaded files disappeared after the recent system migration. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, i was charged twice for my subscription this month. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Images I upload are not displaying in the preview panel.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The dark mode preference is not being saved between sessions.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I was charged twice for my subscription this month.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Please send me a receipt for my last payment. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, This is the third time this week I've had the exact same issue. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, The export to CSV button does nothing when I click it. Appreciate your help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The search feature returns no results for items I know exist. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, Please add a calendar view for managing tasks and deadlines. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Can you add colour-coding for different project categories? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I'm extremely frustrated with the complete lack of communication. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I'm being billed for users I removed from my account. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "hi support team, how does your pricing model work for large enterprise teams? appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Your chatbot gave me completely wrong information three times in a row.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, Role-based access controls would be very useful for our team. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "I'd like to know more about your enterprise plan pricing. Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, This product is not as advertised. I feel completely misled. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "I cancelled my subscription but was charged again in June.",
+    "label": "billing"
+  },
+  {
+    "text": "Can I request a product demo before committing to a paid plan?",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, My webhook endpoint completely stopped receiving events.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, Images I upload are not displaying in the preview panel. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, i keep getting logged out after just a few minutes. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How does your pricing model work for large enterprise teams?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, What is the maximum file upload size on the Pro plan? Need this resolved!!",
+    "label": "other"
+  },
+  {
+    "text": "Hi, Can you explain the line item called platform fee on my invoice? Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, The audit log is missing entries for the past five days. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I've escalated this issue four times now with absolutely no resolution.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, How does your pricing model work for large enterprise teams?",
+    "label": "other"
+  },
+  {
+    "text": "Please add a dark mode option to the web application.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Your chatbot gave me completely wrong information three times in a row. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I get a 500 error every time I try to save my project. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, The search feature returns no results for items I know exist. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Where can I download the desktop application for Windows? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, I've submitted three support tickets and nobody has responded. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, I was overcharged compared to the pricing shown on your website. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "Your customer service is absolutely terrible. I've been waiting 5 days for a reply.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Please add a Slack integration for real-time notifications. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The dashboard won't load \u2014 it just spins forever.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, The PDF report download always comes out corrupted. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "good day, video playback inside your platform freezes after 30 seconds. please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, I'd like to know more about your enterprise plan pricing. Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "I was charged twice for my subscription this month.",
+    "label": "billing"
+  },
+  {
+    "text": "I've escalated this issue four times now with absolutely no resolution.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, The search feature returns no results for items I know exist!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, What are your business hours for customer support? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, The price on my bill doesn't match what was advertised. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please add a calendar view for managing tasks and deadlines. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I've escalated this issue four times now with absolutely no resolution.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, Can you provide a Zapier integration for automating workflows? This is urgent!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "The price on my bill doesn't match what was advertised.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Do you have a student or educational institution discount?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, What are your business hours for customer support? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "The search feature returns no results for items I know exist.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "good day, your customer service is absolutely terrible. i've been waiting 5 days for a reply. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I've submitted three support tickets and nobody has responded. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, Can I use your service if my company is based in a restricted region? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, The bulk import feature fails every time at step 3. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, Can I request a product demo before committing to a paid plan? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Please send me a receipt for my last payment.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, My payment failed but you still charged my card.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, A two-pane view for comparing documents side by side would help. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "good day, what is the maximum file upload size on the pro plan? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, Can you add support for multiple languages in the interface? Thank you!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, i get a 500 error every time i try to save my project. appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My webhook endpoint completely stopped receiving events.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, Do you have a student or educational institution discount?",
+    "label": "other"
+  },
+  {
+    "text": "Would love the ability to bulk delete records at once.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hi support team, notifications are not being delivered to my email address. this is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, I updated my credit card but the old one was charged. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "hello, i was charged twice for my subscription this month. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I've been promised a fix for months and nothing has changed. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, How do i change my account username in the settings? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Where can I find the full documentation for your API? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "hey there, can you explain the line item called platform fee on my invoice? this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, What is the difference between the Basic and Pro plan features? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Why was I billed for a plan I already downgraded from? Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, This is unacceptable behaviour from a company I trusted with my data. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "hey there, this is unacceptable behaviour from a company i trusted with my data.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, My integrations stopped syncing after yesterday's update. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, my billing cycle date changed without my consent. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, My webhook endpoint completely stopped receiving events. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, I'd like the ability to set up recurring tasks automatically. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Role-based access controls would be very useful for our team.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, There's a tax discrepancy on my invoice from March. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Can I use your service if my company is based in a restricted region?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, The PDF report download always comes out corrupted. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The bulk import feature fails every time at step 3. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, Please send me a receipt for my last payment.",
+    "label": "billing"
+  },
+  {
+    "text": "The audit log is missing entries for the past five days. This is urgent!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'd like an API endpoint for bulk data import.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, My uploaded files disappeared after the recent system migration. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, I've been a paying customer for two years and I'm treated like this? Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, Your chatbot gave me completely wrong information three times in a row. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, Two-factor authentication codes are not being accepted. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, i am seriously considering cancelling due to the consistently poor service. thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, Can I use your service if my company is based in a restricted region? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "hello, i'm being billed for users i removed from my account. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, The quality has dropped significantly since your last major update!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, Can I transfer my account to a different email address? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Would love the ability to bulk delete records at once. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, I can't log in even with the correct password. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The bulk import feature fails every time at step 3.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, What is the difference between the Basic and Pro plan features? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "I'm being billed for users I removed from my account.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, What is your data retention policy for inactive accounts? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "a two-pane view for comparing documents side by side would help. this is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "How do I update my notification preferences in the account settings?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Where can I find the full documentation for your API? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Can you add colour-coding for different project categories?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add an AI-powered summary for long comment threads. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, i am seriously considering cancelling due to the consistently poor service. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, Would love the ability to bulk delete records at once. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, What is your data retention policy for inactive accounts? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "hey there, i'm getting cors errors when calling your api from my app. please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I've escalated this issue four times now with absolutely no resolution.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, I'd like an API endpoint for bulk data import.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Two-factor authentication codes are not being accepted. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, where can i find your full privacy policy document? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Can I request a product demo before committing to a paid plan?",
+    "label": "other"
+  },
+  {
+    "text": "Can you explain how the monthly credit system works?",
+    "label": "other"
+  },
+  {
+    "text": "I've been promised a fix for months and nothing has changed.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your uptime SLA is not being met and I'm losing real revenue. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, There's a tax discrepancy on my invoice from October. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, My free trial ended early and i was billed before the period finished. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, I cancelled my subscription but was charged again in July. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "The promo discount was not applied to my bill.",
+    "label": "billing"
+  },
+  {
+    "text": "hi, your pricing increase was not communicated to customers at all. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, Your customer service is absolutely terrible. I've been waiting 5 days for a reply.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, i asked for a refund two weeks ago and i still haven't received anything. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "There's a tax discrepancy on my invoice from January.",
+    "label": "billing"
+  },
+  {
+    "text": "Can I transfer my account to a different email address?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can I transfer my account to a different email address? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need a refund for the duplicate charge on my account.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add support for multiple languages in the interface?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, I'm on the free plan but i see a \u20b9199 charge on my bank statement. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "good day, the quality has dropped significantly since your last major update. need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "what is the maximum file upload size on the pro plan? thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I'd like an API endpoint for bulk data import.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, SSO support for enterprise accounts would make onboarding easier.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, What are your business hours for customer support? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "Good day, This is the third time this week I've had the exact same issue. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, Can you add support for multiple languages in the interface?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I'd like the ability to set up recurring tasks automatically. Please help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "What is the difference between the Basic and Pro plan features?!!",
+    "label": "other"
+  },
+  {
+    "text": "I keep getting logged out after just a few minutes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I'm on the free plan but I see a \u20b9999 charge on my bank statement. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, What is the maximum file upload size on the Pro plan? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, The promo discount was not applied to my bill.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, How does your pricing model work for large enterprise teams? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "Good day, What payment methods do you currently accept? Need this resolved!!",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, This product is not as advertised. I feel completely misled. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "I've submitted three support tickets and nobody has responded.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, My integrations stopped syncing after yesterday's update. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Please add an AI-powered summary for long comment threads. Please help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add a Slack integration for real-time notifications.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, i need to dispute a charge of \u20b9199 from last November. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Your customer service is absolutely terrible. I've been waiting 5 days for a reply!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, I've been promised a fix for months and nothing has changed. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'd like an API endpoint for bulk data import. Thank you!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can I transfer my account to a different email address? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, My webhook endpoint completely stopped receiving events.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hello, the dark mode preference is not being saved between sessions. appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, Please add a dark mode option to the web application!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Can you add colour-coding for different project categories? Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Your customer service is absolutely terrible. I've been waiting 5 days for a reply!!",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I permanently delete my account and all associated data? Need this resolved!!",
+    "label": "other"
+  },
+  {
+    "text": "how does your pricing model work for large enterprise teams? please help.",
+    "label": "other"
+  },
+  {
+    "text": "What are your business hours for customer support?!!",
+    "label": "other"
+  },
+  {
+    "text": "hey there, i have an unexpected charge of \u20b92499 on my statement. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Your customer service is absolutely terrible. I've been waiting 5 days for a reply. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, Images I upload are not displaying in the preview panel.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Images I upload are not displaying in the preview panel. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, my billing cycle date changed without my consent. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, An undo button after deleting items is badly needed. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I've submitted three support tickets and nobody has responded. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "The API is returning a 401 even with a valid token.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Do you offer a discount for registered non-profit organisations? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, I updated my credit card but the old one was charged.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, The PDF report download always comes out corrupted. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hello, can i transfer my account to a different email address? please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, My payment failed but you still charged my card. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, Can you add an option to schedule reports to be sent by email? Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "A two-pane view for comparing documents side by side would help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, I feel like smaller customers are completely ignored by your team. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "How do i add a team member to my existing account? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "I'd like the ability to set up recurring tasks automatically.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, I get a 500 error every time I try to save my project. This is urgent!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, My payment failed but you still charged my card. Please help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, My integrations stopped syncing after yesterday's update. Thank you!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, I keep getting logged out after just a few minutes. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Can I use your service if my company is based in a restricted region? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I've been promised a fix for months and nothing has changed. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "my integrations stopped syncing after yesterday's update.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'd like an APi endpoint for bulk data import. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, The dashboard won't load \u2014 it just spins forever. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Can I use your service if my company is based in a restricted region? This is urgent!!",
+    "label": "other"
+  },
+  {
+    "text": "The constant bugs are making this tool unusable for my business. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, I'd like an API endpoint for bulk data import. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Can you explain how the monthly credit system works? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, A public API for read-only access to my data would be very helpful. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, I've been promised a fix for months and nothing has changed. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, I was overcharged compared to the pricing shown on your website. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Where can I download the desktop application for Windows? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, The constant bugs are making this tool unusable for my business. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, I've submitted three support tickets and nobody has responded. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I find the full documentation for your API?",
+    "label": "other"
+  },
+  {
+    "text": "hey there, i'm on the free plan but i see a \u20b9999 charge on my bank statement. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I can't log in even with the correct password. Need this resolved!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My invoice shows an incorrect amount for October.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, Your pricing increase was not communicated to customers at all. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, i keep getting logged out after just a few minutes. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, It would be great if I could export data to Excel format!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Please send me a receipt for my last payment. Thank you!!",
+    "label": "billing"
+  },
+  {
+    "text": "hi, can you add colour-coding for different project categories?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, Role-based access controls would be very useful for our team. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Keyboard shortcuts for common actions would save me a lot of time. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Your last update broke my entire workflow and no one seems to care.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, Your uptime SLA is not being met and I'm losing real revenue. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "your customer service is absolutely terrible. i've been waiting 5 days for a reply. need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, The dashboard won't load \u2014 it just spins forever. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "It would be great if I could export data to Excel format. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I keep getting logged out after just a few minutes. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, The promo discount was not applied to my bill. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, A two-pane view for comparing documents side by side would help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, An undo button after deleting items is badly needed. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, Where can i download the desktop application for Windows?",
+    "label": "other"
+  },
+  {
+    "text": "Good day, Notifications are not being delivered to my email address. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Where can i find your full privacy policy document?",
+    "label": "other"
+  },
+  {
+    "text": "hi support team, why was i billed for a plan i already downgraded from? please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, I get a 500 error every time I try to save my project!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, Your customer service is absolutely terrible. I've been waiting 5 days for a reply. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, i feel like smaller customers are completely ignored by your team. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, Please add an AI-powered summary for long comment threads. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "please add an ai-powered summary for long comment threads.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I've escalated this issue four times now with absolutely no resolution. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Role-based access controls would be very useful for our team. Need this resolved!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "my invoice shows an incorrect amount for may. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I have an unexpected charge of \u20b91299 on my statement!!",
+    "label": "billing"
+  },
+  {
+    "text": "hey there, i have an unexpected charge of \u20b94999 on my statement. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Notifications are not being delivered to my email address. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, How does your pricing model work for large enterprise teams? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, An undo button after deleting items is badly needed. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, I need to dispute a charge of \u20b9499 from last January. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, The API is returning a 401 even with a valid token. Need this resolved!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, My free trial ended early and I was billed before the period finished. Please help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Your pricing increase was not communicated to customers at all.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, My billing cycle date changed without my consent. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, I'm being billed for users I removed from my account. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "good day, can you provide a zapier integration for automating workflows? thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, This is the third time this week I've had the exact same issue.",
+    "label": "complaint"
+  },
+  {
+    "text": "The quality has dropped significantly since your last major update. This is urgent!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, How do I update my notification preferences in the account settings?!!",
+    "label": "other"
+  },
+  {
+    "text": "Can I request a product demo before committing to a paid plan? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "hi support team, keyboard shortcuts for common actions would save me a lot of time. please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, I'd like an API endpoint for bulk data import. Thank you!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, the outage last week cost my team several hours of productive work. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, There's a tax discrepancy on my invoice from March. Please help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The dark mode preference is not being saved between sessions. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, The APi is returning a 401 even with a valid token. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Would love the ability to bulk delete records at once.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I asked for a refund two weeks ago and I still haven't received anything. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, the mobile app crashes every time i open the settings page.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'd like to know more about your enterprise plan pricing.",
+    "label": "other"
+  },
+  {
+    "text": "hi support team, i was charged twice for my subscription this month. appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "My billing cycle date changed without my consent. Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, Can I use your service if my company is based in a restricted region? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "good day, where can i find your full privacy policy document?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I keep getting logged out after just a few minutes. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Your uptime SLA is not being met and I'm losing real revenue!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, I'd like to customise the columns shown in the list view. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "The promo discount was not applied to my bill. Appreciate your help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Can i use your service if my company is based in a restricted region? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, The bulk import feature fails every time at step 3!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I asked for a refund two weeks ago and I still haven't received anything. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, The PDF report download always comes out corrupted!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I feel like smaller customers are completely ignored by your team. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, I'd like an API endpoint for bulk data import. This is urgent!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "hi, do you offer a discount for registered non-profit organisations? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "i asked for a refund two weeks ago and i still haven't received anything. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, i have an unexpected charge of \u20b9799 on my statement. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, The constant bugs are making this tool unusable for my business. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, My uploaded files disappeared after the recent system migration. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi support team, i updated my credit card but the old one was charged. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "I can't log in even with the correct password.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, This is the third time this week I've had the exact same issue. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, There's a tax discrepancy on my invoice from May. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, The dark mode preference is not being saved between sessions. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, How do i permanently delete my account and all associated data?",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Where can I find the full documentation for your API?!!",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Please add an AI-powered summary for long comment threads. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, The export to CSV button does nothing when I click it. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I updated my credit card but the old one was charged.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you explain how the monthly credit system works?",
+    "label": "other"
+  },
+  {
+    "text": "Good day, The price on my bill doesn't match what was advertised. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "My uploaded files disappeared after the recent system migration.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Your pricing increase was not communicated to customers at all.",
+    "label": "complaint"
+  },
+  {
+    "text": "where can i find your full privacy policy document? please help.",
+    "label": "other"
+  },
+  {
+    "text": "Your documentation is confusing, outdated, and full of errors.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, Keyboard shortcuts for common actions would save me a lot of time. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Can you provide a Zapier integration for automating workflows? Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, The outage last week cost my team several hours of productive work. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "A public API for read-only access to my data would be very helpful.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Your uptime SLA is not being met and I'm losing real revenue. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, i was overcharged compared to the pricing shown on your website.",
+    "label": "billing"
+  },
+  {
+    "text": "hello, what is your data retention policy for inactive accounts?",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, How does your pricing model work for large enterprise teams? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "Hello, The mobile app crashes every time i open the settings page. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The constant bugs are making this tool unusable for my business. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I download the desktop application for Windows?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, Do you offer a discount for registered non-profit organisations? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Can i use your service if my company is based in a restricted region? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, I need to dispute a charge of \u20b9999 from last December. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add colour-coding for different project categories? Please help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, Your documentation is confusing, outdated, and full of errors. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, Can you add support for multiple languages in the interface? Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I get a 500 error every time I try to save my project. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, my webhook endpoint completely stopped receiving events. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I change my account username in the settings?",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, The bulk import feature fails every time at step 3!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, My free trial ended early and i was billed before the period finished.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you provide a Zapier integration for automating workflows?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, How do i change my account username in the settings? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, It would be great if i could export data to Excel format. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "This product is not as advertised. I feel completely misled.",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I find your full privacy policy document?",
+    "label": "other"
+  },
+  {
+    "text": "How do I permanently delete my account and all associated data? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, My payment failed but you still charged my card. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "my annual plan was auto-renewed without any notice. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, I need to dispute a charge of \u20b9299 from last November. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "hello, can you provide a zapier integration for automating workflows? this is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, Can you provide a Zapier integration for automating workflows? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, My invoice shows an incorrect amount for January. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, Images I upload are not displaying in the preview panel. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Do you have a student or educational institution discount? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, I asked for a refund two weeks ago and I still haven't received anything. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Two-factor authentication codes are not being accepted. Please help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I need to dispute a charge of \u20b9199 from last October. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Your last update broke my entire workflow and no one seems to care. Thank you!!",
+    "label": "complaint"
+  },
+  {
+    "text": "How do i update my notification preferences in the account settings? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "An undo button after deleting items is badly needed. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "It would be great if I could export data to Excel format.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, There's a tax discrepancy on my invoice from June. Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "Do you offer a discount for registered non-profit organisations? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Can you explain how the monthly credit system works? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "I'm on the free plan but I see a \u20b9799 charge on my bank statement.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, A two-pane view for comparing documents side by side would help. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, Why was I billed for a plan I already downgraded from? Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "good day, this is the third time this week i've had the exact same issue. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, It would be great if I could export data to Excel format. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "good day, can i transfer my account to a different email address? this is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Would love the ability to bulk delete records at once. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, The APi is returning a 401 even with a valid token. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hello, my free trial ended early and i was billed before the period finished. need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "I've submitted three support tickets and nobody has responded. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, what payment methods do you currently accept? please help.",
+    "label": "other"
+  },
+  {
+    "text": "hi, your chatbot gave me completely wrong information three times in a row. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, My uploaded files disappeared after the recent system migration. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, I updated my credit card but the old one was charged. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Role-based access controls would be very useful for our team. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Do you offer a discount for registered non-profit organisations? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "Good day, Do you offer a discount for registered non-profit organisations? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, I'm extremely frustrated with the complete lack of communication.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, My payment failed but you still charged my card. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, Please add an AI-powered summary for long comment threads. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, The price on my bill doesn't match what was advertised. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "good day, how do i add a team member to my existing account? thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, I've escalated this issue four times now with absolutely no resolution. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I've been a paying customer for two years and I'm treated like this?",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I was charged twice for my subscription this month. Appreciate your help!!",
+    "label": "billing"
+  },
+  {
+    "text": "hey there, sso support for enterprise accounts would make onboarding easier. this is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, My annual plan was auto-renewed without any notice. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "hi support team, your uptime sla is not being met and i'm losing real revenue.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, Can I request a product demo before committing to a paid plan? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, My invoice shows an incorrect amount for December.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, I'm getting CORS errors when calling your API from my app!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Would love the ability to bulk delete records at once.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add a dark mode option to the web application.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Your last update broke my entire workflow and no one seems to care.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, Can you add an option to schedule reports to be sent by email? This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, the audit log is missing entries for the past five days. thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Please add a dark mode option to the web application. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Notifications are not being delivered to my email address. Thank you!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My integrations stopped syncing after yesterday's update. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, A public API for read-only access to my data would be very helpful. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, I have an unexpected charge of \u20b9299 on my statement. Thank you!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, I'd like to customise the columns shown in the list view. Thank you!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, Where can I find your full privacy policy document? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I was overcharged compared to the pricing shown on your website. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, I'd like to know more about your enterprise plan pricing. Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "hello, i have an unexpected charge of \u20b9299 on my statement. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, My free trial ended early and i was billed before the period finished.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Why was i billed for a plan i already downgraded from? Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, How do I add a team member to my existing account? Thank you!!",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I've escalated this issue four times now with absolutely no resolution. Appreciate your help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Keyboard shortcuts for common actions would save me a lot of time.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I need a refund for the duplicate charge on my account. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "How do I permanently delete my account and all associated data?!!",
+    "label": "other"
+  },
+  {
+    "text": "hey there, the quality has dropped significantly since your last major update.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, i feel like smaller customers are completely ignored by your team. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, I have an unexpected charge of \u20b94999 on my statement!!",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, Can I request a product demo before committing to a paid plan? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Would love the ability to bulk delete records at once.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I've been promised a fix for months and nothing has changed. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "hello, i'm extremely frustrated with the complete lack of communication. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, Where can I download the desktop application for Windows? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "I get a 500 error every time I try to save my project.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, I updated my credit card but the old one was charged. Appreciate your help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, I'd like to see a native mobile app for iOS. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I'd like to know more about your enterprise plan pricing. Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Can you explain how the monthly credit system works?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Where can I find your full privacy policy document? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "hi, your last update broke my entire workflow and no one seems to care. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "hello, your uptime sla is not being met and i'm losing real revenue. this is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, i get a 500 error every time i try to save my project. this is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, The price on my bill doesn't match what was advertised. This is urgent!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, Your last update broke my entire workflow and no one seems to care. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "I was charged twice for my subscription this month. Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, SSO support for enterprise accounts would make onboarding easier. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "An undo button after deleting items is badly needed.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I am seriously considering cancelling due to the consistently poor service. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "My billing cycle date changed without my consent. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, Please send me a receipt for my last payment. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "good day, my free trial ended early and i was billed before the period finished. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "where can i find the full documentation for your api? appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Can I transfer my account to a different email address? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "hi, can you explain the line item called platform fee on my invoice? appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Your documentation is confusing, outdated, and full of errors. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, two-factor authentication codes are not being accepted. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi support team, my payment failed but you still charged my card. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "I'd like an API endpoint for bulk data import. Please help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "What is your data retention policy for inactive accounts?",
+    "label": "other"
+  },
+  {
+    "text": "Can you add colour-coding for different project categories?",
+    "label": "feature_request"
+  },
+  {
+    "text": "What is the maximum file upload size on the Pro plan? This is urgent!!",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, Images I upload are not displaying in the preview panel. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Your chatbot gave me completely wrong information three times in a row. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, can you add colour-coding for different project categories? appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, i need a refund for the duplicate charge on my account. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "The API is returning a 401 even with a valid token.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Your pricing increase was not communicated to customers at all. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "An undo button after deleting items is badly needed. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Notifications are not being delivered to my email address. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, The audit log is missing entries for the past five days. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, I'm being billed for users I removed from my account. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Can I request a product demo before committing to a paid plan? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "I'd like to know more about your enterprise plan pricing.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, I'm getting CORS errors when calling your API from my app. Appreciate your help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I asked for a refund two weeks ago and I still haven't received anything!!",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, how do i permanently delete my account and all associated data? this is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, I can't log in even with the correct password. Appreciate your help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The constant bugs are making this tool unusable for my business. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I've submitted three support tickets and nobody has responded. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I've been a paying customer for two years and I'm treated like this? Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, I can't log in even with the correct password. Need this resolved!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Please add a Slack integration for real-time notifications. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "My webhook endpoint completely stopped receiving events. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, Your uptime SLA is not being met and I'm losing real revenue. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, i'm being billed for users i removed from my account. this is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, I was charged twice for my subscription this month. Thank you!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Your documentation is confusing, outdated, and full of errors. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, How do I add a team member to my existing account? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "what is your data retention policy for inactive accounts? thank you.",
+    "label": "other"
+  },
+  {
+    "text": "good day, can i request a product demo before committing to a paid plan?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, A two-pane view for comparing documents side by side would help. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, SSO support for enterprise accounts would make onboarding easier. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "good day, the constant bugs are making this tool unusable for my business. thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "The outage last week cost my team several hours of productive work.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, The dashboard won't load \u2014 it just spins forever. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Two-factor authentication codes are not being accepted.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "the dark mode preference is not being saved between sessions. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, How do I add a team member to my existing account? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "The PDF report download always comes out corrupted.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi support team, this is the third time this week i've had the exact same issue. appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I get a 500 error every time I try to save my project. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hello, the dashboard won't load \u2014 it just spins forever. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, my webhook endpoint completely stopped receiving events. thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, Please send me a receipt for my last payment. Please help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, Please add a dark mode option to the web application. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hi, sso support for enterprise accounts would make onboarding easier. appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "An undo button after deleting items is badly needed.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Can you add support for multiple languages in the interface? Please help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, I'm on the free plan but I see a \u20b9299 charge on my bank statement.",
+    "label": "billing"
+  },
+  {
+    "text": "Role-based access controls would be very useful for our team. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hello, how do i change my account username in the settings? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hi, The price on my bill doesn't match what was advertised. Please help.",
+    "label": "billing"
+  },
+  {
+    "text": "hi support team, i'd like the ability to set up recurring tasks automatically. need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I was overcharged compared to the pricing shown on your website. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, The dashboard won't load \u2014 it just spins forever. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'd like the ability to set up recurring tasks automatically. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, I'm getting CORS errors when calling your APi from my app. This is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "This is unacceptable behaviour from a company I trusted with my data. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "How do I change my account username in the settings?!!",
+    "label": "other"
+  },
+  {
+    "text": "I have an unexpected charge of \u20b9199 on my statement. Appreciate your help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The dark mode preference is not being saved between sessions. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Can you provide a Zapier integration for automating workflows? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, A public API for read-only access to my data would be very helpful. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, How do i change my account username in the settings?",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Please add a calendar view for managing tasks and deadlines. Please help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Two-factor authentication codes are not being accepted.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hello, this is the third time this week i've had the exact same issue. thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, Where can I download the desktop application for Windows? This is urgent!!",
+    "label": "other"
+  },
+  {
+    "text": "what is the difference between the basic and pro plan features? please help.",
+    "label": "other"
+  },
+  {
+    "text": "Your last update broke my entire workflow and no one seems to care.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, I am seriously considering cancelling due to the consistently poor service. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "i cancelled my subscription but was charged again in january. thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, This product is not as advertised. I feel completely misled. Appreciate your help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "The PDF report download always comes out corrupted.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, The promo discount was not applied to my bill. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "My payment failed but you still charged my card.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, The promo discount was not applied to my bill. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Do you have a student or educational institution discount? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support team, Keyboard shortcuts for common actions would save me a lot of time. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, The PDF report download always comes out corrupted. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I was charged twice for my subscription this month.",
+    "label": "billing"
+  },
+  {
+    "text": "notifications are not being delivered to my email address. thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, where can i download the desktop application for windows? thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Good day, Please add an AI-powered summary for long comment threads!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, Can you explain how the monthly credit system works? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "Hi, There's a tax discrepancy on my invoice from July. Need this resolved!!",
+    "label": "billing"
+  },
+  {
+    "text": "The search feature returns no results for items I know exist.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Can you provide a Zapier integration for automating workflows?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, The API is returning a 401 even with a valid token. This is urgent!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'd like to see a native mobile app for iOS. Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "My payment failed but you still charged my card. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Images I upload are not displaying in the preview panel. Please help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, My annual plan was auto-renewed without any notice. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Can you add colour-coding for different project categories? Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "hi support team, i've been promised a fix for months and nothing has changed. thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, My billing cycle date changed without my consent. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Can you explain the line item called platform fee on my invoice?",
+    "label": "billing"
+  },
+  {
+    "text": "Hey there, I have an unexpected charge of \u20b9499 on my statement. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Can you explain how the monthly credit system works? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I was overcharged compared to the pricing shown on your website. This is urgent.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, Please add a Slack integration for real-time notifications. Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, Two-factor authentication codes are not being accepted!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi support team, can you explain the line item called platform fee on my invoice? thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "your pricing increase was not communicated to customers at all. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, I am seriously considering cancelling due to the consistently poor service!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, The export to CSV button does nothing when I click it. Need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hi, this product is not as advertised. i feel completely misled. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I've been promised a fix for months and nothing has changed. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, An undo button after deleting items is badly needed. This is urgent.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hello, your customer service is absolutely terrible. i've been waiting 5 days for a reply. thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "hey there, the outage last week cost my team several hours of productive work. need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, I keep getting logged out after just a few minutes.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, Your documentation is confusing, outdated, and full of errors. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good day, This is unacceptable behaviour from a company I trusted with my data.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, This is unacceptable behaviour from a company I trusted with my data. Need this resolved!!",
+    "label": "complaint"
+  },
+  {
+    "text": "good day, your last update broke my entire workflow and no one seems to care. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "hey there, do you have a student or educational institution discount? need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "My integrations stopped syncing after yesterday's update.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, What is your data retention policy for inactive accounts? Appreciate your help.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Please add a Slack integration for real-time notifications. Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "hey there, how do i permanently delete my account and all associated data?",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, What payment methods do you currently accept? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "I am seriously considering cancelling due to the consistently poor service. This is urgent!!",
+    "label": "complaint"
+  },
+  {
+    "text": "hi support team, what payment methods do you currently accept? please help.",
+    "label": "other"
+  },
+  {
+    "text": "The constant bugs are making this tool unusable for my business. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "hey there, the export to csv button does nothing when i click it. thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, The mobile app crashes every time I open the settings page. Thank you!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, I feel like smaller customers are completely ignored by your team. Please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "my invoice shows an incorrect amount for october. please help.",
+    "label": "billing"
+  },
+  {
+    "text": "good day, i cancelled my subscription but was charged again in april. appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, Can you provide a Zapier integration for automating workflows? Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I'm getting CORS errors when calling your API from my app.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hey there, The quality has dropped significantly since your last major update. Appreciate your help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi, How do I change my account username in the settings? Thank you.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you add support for multiple languages in the interface? Appreciate your help!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "good day, the audit log is missing entries for the past five days. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The audit log is missing entries for the past five days.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good day, Where can I find your full privacy policy document? Appreciate your help!!",
+    "label": "other"
+  },
+  {
+    "text": "Hello, My payment failed but you still charged my card. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Your uptime SLA is not being met and I'm losing real revenue.",
+    "label": "complaint"
+  },
+  {
+    "text": "the quality has dropped significantly since your last major update. please help.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, My uploaded files disappeared after the recent system migration. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi, I'm extremely frustrated with the complete lack of communication. Please help!!",
+    "label": "complaint"
+  },
+  {
+    "text": "Where can I find the full documentation for your API? Please help.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Where can I find the full documentation for your API?",
+    "label": "other"
+  },
+  {
+    "text": "Hi, How do I update my notification preferences in the account settings? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you add colour-coding for different project categories? Need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support team, i can't log in even with the correct password.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, the audit log is missing entries for the past five days. this is urgent.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'd like to customise the columns shown in the list view. Need this resolved!!",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hey there, Your documentation is confusing, outdated, and full of errors.",
+    "label": "complaint"
+  },
+  {
+    "text": "I feel like smaller customers are completely ignored by your team.",
+    "label": "complaint"
+  },
+  {
+    "text": "hi, the dashboard won't load \u2014 it just spins forever. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "What payment methods do you currently accept? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "hey there, i'd like to customise the columns shown in the list view. need this resolved.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, I've been promised a fix for months and nothing has changed. Thank you.",
+    "label": "complaint"
+  },
+  {
+    "text": "i asked for a refund two weeks ago and i still haven't received anything. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, What payment methods do you currently accept? Need this resolved!!",
+    "label": "other"
+  },
+  {
+    "text": "The constant bugs are making this tool unusable for my business.",
+    "label": "complaint"
+  },
+  {
+    "text": "I updated my credit card but the old one was charged. Thank you.",
+    "label": "billing"
+  },
+  {
+    "text": "Good day, Can you add an option to schedule reports to be sent by email? Appreciate your help.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good day, Can i transfer my account to a different email address?",
+    "label": "other"
+  },
+  {
+    "text": "The dark mode preference is not being saved between sessions. Thank you.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support team, Why was I billed for a plan I already downgraded from? Please help!!",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, An undo button after deleting items is badly needed. Thank you.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi, The outage last week cost my team several hours of productive work. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "The export to CSV button does nothing when I click it. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "two-factor authentication codes are not being accepted. need this resolved.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "How do I change my account username in the settings?!!",
+    "label": "other"
+  },
+  {
+    "text": "Hey there, The quality has dropped significantly since your last major update.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support team, The price on my bill doesn't match what was advertised. Appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, How do i add a team member to my existing account? Need this resolved.",
+    "label": "other"
+  },
+  {
+    "text": "i need to dispute a charge of \u20b9999 from last february. appreciate your help.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi, The mobile app crashes every time I open the settings page. Appreciate your help!!",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, i asked for a refund two weeks ago and i still haven't received anything. Need this resolved.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hey there, My uploaded files disappeared after the recent system migration. Appreciate your help.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I'm on the free plan but I see a \u20b9799 charge on my bank statement. Need this resolved.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support team, How do I change my account username in the settings? This is urgent.",
+    "label": "other"
+  },
+  {
+    "text": "i feel like smaller customers are completely ignored by your team. This is urgent.",
+    "label": "complaint"
+  },
+  {
+    "text": "good day, the search feature returns no results for items i know exist.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "hey there, the export to csv button does nothing when i click it.",
+    "label": "technical_issue"
+  }
+]

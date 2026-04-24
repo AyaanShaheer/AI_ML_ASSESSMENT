@@ -1,0 +1,28 @@
+SECTION 03 — CLASSIFIER EVALUATION RESULTS
+=================================================================
+Eval set    : 120 manually written examples
+Accuracy    : 0.8417  (84.2%)
+Avg latency : 2.27ms per ticket
+Max latency : 204.33ms per ticket
+
+Classification Report:
+                 precision    recall  f1-score   support
+
+        billing      0.679     0.792     0.731        24
+      complaint      0.905     0.792     0.844        24
+feature_request      0.917     0.917     0.917        24
+          other      0.880     0.917     0.898        24
+technical_issue      0.864     0.792     0.826        24
+
+       accuracy                          0.842       120
+      macro avg      0.849     0.842     0.843       120
+   weighted avg      0.849     0.842     0.843       120
+
+Confusion Matrix (rows=true, cols=predicted):
+                             billing       complaint feature_request           other technical_issue
+----------------------------------------------------------------------------------------------------
+billing                           19               1               1               1               2
+complaint                          3              19               0               1               1
+feature_request                    0               1              22               1               0
+other                              2               0               0              22               0
+technical_issue                    4               0               1               0              19
